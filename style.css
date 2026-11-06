@@ -1,0 +1,33 @@
+/* my colors: purple silver black */
+
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    color: silver;
+}
+
+header {
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    vertical-align: top;
+    color: silver;
+}
+
+.contact {
+    text-align: center;
+    color: silver;
+}
+
+.emphasis {
+    color: purple;
+    font-weight: bold;
+}
+
+body {
+    background-color: black;
+}
