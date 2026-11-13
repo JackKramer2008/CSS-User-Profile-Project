@@ -6,10 +6,14 @@
 
 .title {
     color: silver;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
 }
 
 header {
     text-align: center;
+    padding-bottom: 100px;
+    background-color: blueviolet;
 }
 
 .card {
@@ -30,4 +34,5 @@ header {
 
 body {
     background-color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
